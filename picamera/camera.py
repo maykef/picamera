@@ -1835,7 +1835,7 @@ class PiCamera(object):
         |       | YcbCrSubSampling, YcbCrPositioning, ReferenceBlackWhite,    |
         |       | Copyright                                                   |
         +-------+-------------------------------------------------------------+
-        | EXIF  | ExposureTime, FNumber, BandName, ExposureProgram,                     |
+        | EXIF  | ExposureTime, FNumber, BandName, ExposureProgram,           |
         |       | SpectralSensitivity, ISOSpeedRatings, OECF, ExifVersion,    |
         |       | DateTimeOriginal, DateTimeDigitized,                        |
         |       | ComponentsConfiguration, CompressedBitsPerPixel,            |
